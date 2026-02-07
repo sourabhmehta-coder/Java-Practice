@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class Q3 {
-//Check if a number is even or odd.
+//Check if a number is divisible by 5 or not.
 	public static void main(String[] args) {
 		Scanner sc  = new Scanner(System.in);
 		
